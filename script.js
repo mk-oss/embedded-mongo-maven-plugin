@@ -1,0 +1,1 @@
+db.countries.save({"name":"test","id":"mk1","phone":"123"})
